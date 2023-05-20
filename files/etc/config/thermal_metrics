@@ -1,0 +1,2 @@
+config thermal_metrics 'general'
+        option interval '30'

@@ -1,0 +1,2 @@
+config sysfixtime_marker 'general'
+        option interval '7200'
